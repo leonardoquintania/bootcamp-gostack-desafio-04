@@ -3,7 +3,6 @@
 <h3 align="center">
   Desafio 04: Conceitos do React Native
 </h3>
-
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
